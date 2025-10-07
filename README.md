@@ -1,6 +1,6 @@
 # AI Text Generator with Sentiment Alignment
 
-AI Text Generator with Sentiment Alignment, an intelligent system that generates AI-written text — paragraphs or short essays — reflecting the sentiment of a user-provided prompt: Positive, Negative, or Neutral. It combines sentiment analysis with natural language generation to produce coherent, context-aware content.
+AI Text Generator with Sentiment Alignment, an intelligent system that generates AI-written text - paragraphs or short essays, reflecting the sentiment of a user-provided prompt: Positive, Negative, or Neutral. It combines sentiment analysis with natural language generation to produce coherent, context-aware content.
 
 ## Objective
 
