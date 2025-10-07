@@ -12,24 +12,16 @@ The main goal of this project is to:
 
 ## Key Features
 
-Sentiment Detection: Automatically classify user input as Positive, Negative, or Neutral using NLP models.
-
-AI Text Generation: Generate coherent text that reflects the detected or selected sentiment.
-
-Interactive Frontend: Streamlit-based UI for easy user input and instant output.
-
-Customizable: Users can manually select sentiment and adjust word limits.
+- Sentiment Detection: Automatically classify user input as Positive, Negative, or Neutral using NLP models.
+- AI Text Generation: Generate coherent text that reflects the detected or selected sentiment.
+- Interactive Frontend: Streamlit-based UI for easy user input and instant output.
+- Customizable: Users can manually select sentiment and adjust word limits.
 
 ## Tech Stack
 
-Language: Python
-
-NLP & Text Generation: Hugging Face Transformers
-
-Frontend: Streamlit
-
-Model Backend: PyTorch / TensorFlow
-
-Development Environment: Google Colab
-
-Testing & Deployment: Ngrok (for sharing Colab apps)
+- Language: Python
+- NLP & Text Generation: Hugging Face Transformers
+- Frontend: Streamlit
+- Model Backend: PyTorch / TensorFlow
+- Development Environment: Google Colab
+- Testing & Deployment: Ngrok (for sharing Colab apps)
