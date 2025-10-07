@@ -2,7 +2,7 @@
 
 AI Text Generator with Sentiment Alignment, an intelligent system that generates AI-written text — paragraphs or short essays — reflecting the sentiment of a user-provided prompt: Positive, Negative, or Neutral. It combines sentiment analysis with natural language generation to produce coherent, context-aware content.
 
-## Objective:
+## Objective
 
 The main goal of this project is to:
 
@@ -25,3 +25,10 @@ The main goal of this project is to:
 - Model Backend: PyTorch / TensorFlow
 - Development Environment: Google Colab
 - Testing & Deployment: Ngrok (for sharing Colab apps)
+
+## Usage
+
+- Enter a prompt in the text input field.
+- Either: Allow automatic sentiment detection, or Manually select the sentiment.
+- Set a word limit.
+- Click Generate to receive AI-generated text aligned with the selected sentiment.
