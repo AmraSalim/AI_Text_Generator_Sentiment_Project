@@ -6,11 +6,9 @@ AI Text Generator with Sentiment Alignment, an intelligent system that generates
 
 The main goal of this project is to:
 
-Detect the sentiment of a given user prompt.
-
-Generate meaningful text aligned with the detected sentiment.
-
-Offer a user-friendly frontend interface for seamless interaction.
+- Detect the sentiment of a given user prompt.
+- Generate meaningful text aligned with the detected sentiment.
+- Offer a user-friendly frontend interface for seamless interaction.
 
 ## Key Features
 
